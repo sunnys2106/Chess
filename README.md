@@ -1,3 +1,2 @@
 # Chess
-chess but it's bad
-
+A game of chess made for 2 players
